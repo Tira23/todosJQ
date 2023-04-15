@@ -37,7 +37,7 @@
   transition: 0.5s ease-in-out;
 }
 .todos div:hover {
-  transform: scale(1.1) translateX(-28px);
+  transform: scale(1.05) translateX(-2%);
 }
 .todos div .delete, .todos div button {
   color: red;
